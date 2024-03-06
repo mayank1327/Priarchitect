@@ -1,0 +1,64 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    /* background-color: #000; */
+    color: #fff;
+    margin: 0;
+    overflow: hidden;
+}
+
+.main{ 
+    height: 100vh; 
+    /* padding-left: 6rem;
+    padding-right: 6rem; */
+    
+}
+
+
+.mainContent {
+    height: 100%;
+    width: 100%;
+    /* background-color: green; */
+    color: black;
+}
+
+.content1 {
+    height: 200px;
+    width: 100%;
+    /* background-color: aqua; */
+    font-size: 4rem;
+    padding-left: 1rem;
+   
+
+}
+
+.setPadding {
+    padding-top: 2rem;
+    padding-left: 1rem;
+}
+
+
+.changeColor {
+    color: rgb(255, 30, 0);
+}
+
+.content2 {
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 1rem; */
+
+}
+
+.btnMargin {
+    margin-top: 2rem;
+}
+
+.mainImg {
+    margin-right: 2rem;
+}
+
+
+.mainImg img{
+    height: 25rem;
+    width: 45rem;
+    
+}
